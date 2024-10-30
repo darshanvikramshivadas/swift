@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013570808086",
+    "project_id": "indriver-clone-7a1a8",
+    "storage_bucket": "indriver-clone-7a1a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013570808086:android:34b6d85b845536fb1a0837",
+        "android_client_info": {
+          "package_name": "com.darshan.usersindriverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR6wM-n8PUn8VCLKLtmQq2yB2QrTPAvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
